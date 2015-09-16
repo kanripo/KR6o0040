@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:35.067889
+#+DATE: 2015-08-30 20:59:37.091070
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6o0040_T_015-0118a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 大乘集菩薩學論卷第十五¶
+大乘集菩薩學論卷第十五¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿宣梵大師賜紫¶
@@ -162,7 +161,7 @@
 　悉令解脫¶
 　或復捶打
 　枷鎖繫縛
-　種種苦具¶
+　種種諸苦¶
 　逼切其身
 　又復無量
 　百千種類¶
@@ -238,11 +237,11 @@
 　剛健勇猛¶
 　智慧聰利
 　而常修行
-　諸菩提道¶
+　諸菩薩道¶
 　六波羅蜜
 　見十方佛
 　在寶樹下¶
-　處琉璃座
+　處琉瑠座
 　安隱快樂
 　圍繞恭敬¶
 　聞說妙法
