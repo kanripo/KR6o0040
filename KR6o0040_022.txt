@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:35.235532
+#+DATE: 2015-08-30 20:59:38.270384
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0040_T_022-0132c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 22
 ¶
 ¶
-
- 大乘集菩薩學論卷第二十二¶
+大乘集菩薩學論卷第二十二¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿宣梵大師賜紫¶
@@ -317,11 +316,7 @@
 云。若能攝受正法。則為已於無量無數諸佛¶
 剎土護佛壽命。¶
 
-18念三寶品
-:PROPERTIES:
-:head: 念三寶品第十八
-:END:
-¶
+念三寶品第十八¶
 
 論曰。明賢善行次第增福。此非別因而能獲¶
 得。謂於信等常當修習。如祕密大乘經云。佛¶

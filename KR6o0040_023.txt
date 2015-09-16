@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:35.261250
+#+DATE: 2015-08-30 20:59:38.290487
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0040_T_023-0135b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 23
 ¶
 ¶
-
- 大乘集菩薩學論卷第二十三¶
+大乘集菩薩學論卷第二十三¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿宣梵大師賜紫¶
@@ -34,7 +33,7 @@
 　如來目淨若青蓮
 　譬軍那花及珂月
 <pb:KR6o0040_T_023-0135c>¶
-　憐憫觀視諸有情
+　隣憫觀視諸有情
 　是故我今稽首禮¶
 　如來舌相類銅色
 　脩廣而能覆面輪¶

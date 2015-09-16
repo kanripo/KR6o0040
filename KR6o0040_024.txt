@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:35.294605
+#+DATE: 2015-08-30 20:59:38.321417
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0040_T_024-0138c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 24
 ¶
 ¶
-
- 大乘集菩薩學論卷第二十四¶
+大乘集菩薩學論卷第二十四¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
@@ -142,7 +141,7 @@
 　諸根智惠悉通達¶
 　則得日燈三摩地
 　智惠光明成佛果¶
-　國財及己皆能捨
+　國財及已皆能捨
 　為菩提故求正法¶
 　聞已為眾廣開演
 　是故此光名惠嚴¶
