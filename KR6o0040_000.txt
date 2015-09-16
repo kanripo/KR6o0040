@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘集菩薩學論
+#+DATE: 2015-08-30 20:59:35.776858
+#+PROPERTY: JUAN 0
