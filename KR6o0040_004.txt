@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:34.802253
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_004-0083c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 大乘集菩薩學論卷第四¶
+大乘集菩薩學論卷第四¶
 ¶
 西天譯經三藏銀青光祿大夫¶
 試光祿卿普明慈覺傳梵大師¶
@@ -71,11 +70,7 @@
 無厭足。護持如來正法者。而不捨離菩提心。¶
 波羅蜜行不棄捐。普能攝受多種善。¶
 
-3護法師品
-:PROPERTIES:
-:head: 護法師品第三
-:END:
-¶
+* 護法師品第三¶
 
 論曰。守護方便說有三種。謂護身語得離諸¶
 難。護持正法行者思惟守護。不令他人之所¶
@@ -333,11 +328,7 @@
 昔主持比丘利養以慳惜故。回換眾物。冬時¶
 雨時交互而與。由斯業報受苦不息。¶
 
-4空品
-:PROPERTIES:
-:head: 空品第四
-:END:
-¶
+* 空品第四¶
 
 論曰。復次經說大義。如虛空藏經云。佛告彌¶
 勒菩薩言。灌頂剎帝利王。有五根本罪。若犯¶

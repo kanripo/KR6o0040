@@ -1,29 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:34.729810
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_001-0075b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1636¶
-
- 大乘集菩薩學論卷第一¶
+No. 1636¶
+大乘集菩薩學論卷第一¶
 ¶
 法稱菩薩造¶
-西天譯經三藏銀青光祿大夫¶
-試光祿卿普明慈覺傳梵大師¶
-賜紫沙門臣法護等奉　詔譯¶
+西天譯經三藏銀青光祿大夫試光祿卿普明慈覺傳梵大師賜紫沙門臣法護等奉　詔譯¶
 
-1集布施學品
-:PROPERTIES:
-:head: 集布施學品第一之一
-:END:
-¶
+* 集布施學品第一之一¶
 
 #+BEGIN_VERSE
 「　我聞地獄大險怖
@@ -53,9 +46,9 @@ No.1636¶
 　然我意樂清淨法
 　為令長養諸善根¶
 　如我等比覩斯文
-　於義未習應為說
+　於義未習應為說」
 #+END_VERSE
-」¶
+¶
 
 論曰。謂欲成就士夫義者。於剎那頃具足難¶
 得。若不思惟是安隱處。此正等行當云何有。¶

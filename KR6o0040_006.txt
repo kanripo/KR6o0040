@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:34.846530
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_006-0091c> 
 #+PROPERTY: JUAN 6
 ¶
-
- 大乘集菩薩學論卷第六¶
+大乘集菩薩學論卷第六¶
 ¶
 西天譯經三藏銀青光祿大夫¶
 試光祿卿普明慈覺傳梵大師¶

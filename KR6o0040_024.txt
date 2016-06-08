@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:35.294605
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_024-0138c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 24
 ¶
 ¶
-
- 大乘集菩薩學論卷第二十四¶
+大乘集菩薩學論卷第二十四¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
@@ -142,7 +141,7 @@
 　諸根智惠悉通達¶
 　則得日燈三摩地
 　智惠光明成佛果¶
-　國財及己皆能捨
+　國財及已皆能捨
 　為菩提故求正法¶
 　聞已為眾廣開演
 　是故此光名惠嚴¶
@@ -499,9 +498,9 @@
 　彼不能學波羅蜜
 　亦不學佛諸功德¶
 　猶成不可思議事
-　何況具足諸願者
+　何況具足諸願者」
 #+END_VERSE
-」¶
+¶
 
 論曰。菩薩諸有所作。皆為利樂諸眾生故。¶
 自餘別明增長福因。如寶雲經偈云。¶
@@ -593,9 +592,9 @@
 　發如是心
 　願令眾生¶
 　常得人天
-　之所禮敬
+　之所禮敬」
 #+END_VERSE
-」¶
+¶
 大乘集菩薩學論卷第二十四
 <pb:KR6o0040_T_024-0142a>¶
 

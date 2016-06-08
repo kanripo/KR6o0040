@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:35.120573
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_017-0122a> 
 #+PROPERTY: JUAN 17
 ¶
-
- 大乘集菩薩學論卷第十七¶
+大乘集菩薩學論卷第十七¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿宣梵大師賜紫¶
@@ -78,11 +77,7 @@
 論曰。由無明愛等煩惱業緣之所招集成蘊¶
 處界。於勝義中皆不可得。¶
 
-14自性清淨品
-:PROPERTIES:
-:head: 自性清淨品第十四
-:END:
-¶
+* 自性清淨品第十四¶
 
 論曰。說念處已。次復入解補特伽羅。決定成¶
 就相應空性斷根本已。餘煩惱等不復集行。¶
@@ -108,9 +103,9 @@
 　設百生中墮惡道
 　常得任持妙色相¶
 　亦復獲是五神通
-　而常安住諸佛所
+　而常安住諸佛所」
 #+END_VERSE
-」¶
+¶
 
 又般若經云。復次舍利子。菩薩摩訶薩欲成¶
 就佛身三十二大人相及八十種好者。於一¶

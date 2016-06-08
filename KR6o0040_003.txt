@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:34.777201
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_003-0080b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 大乘集菩薩學論卷第三¶
+大乘集菩薩學論卷第三¶
 ¶
 西天譯經三藏銀青光祿大夫¶
 試光祿卿普明慈覺傳梵大師¶
@@ -195,11 +194,7 @@
 置彼岸處。菩薩於菩提道布施。餘如寶雲經¶
 說。¶
 
-2護持正法戒品
-:PROPERTIES:
-:head: 護持正法戒品第二之一
-:END:
-¶
+* 護持正法戒品第二之一¶
 
 論曰。是人於身雖捨。復何名護。謂若以自受¶
 用施諸眾生。云何受用。何等名施。若無受用¶

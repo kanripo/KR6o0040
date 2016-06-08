@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:34.822049
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_005-0087c> 
 #+PROPERTY: JUAN 5
 ¶
-
- 大乘集菩薩學論卷第五¶
+大乘集菩薩學論卷第五¶
 ¶
 西天譯經三藏銀青光祿大夫¶
 試光祿卿普明慈覺傳梵大師¶
@@ -346,7 +345,7 @@
 彼𦿒棘。此二種道是極險惡。彼不善人之所¶
 親近於如是道。為諸正士之所遠離。汝勿如¶
 是思惟少分著欲。世尊說此多苦多難及多¶
-罪垢。譏毀凌蔑。佛言。比丘。又此欲者如病癰¶
+罪垢。譏毀淩蔑。佛言。比丘。又此欲者如病癰¶
 疽中含毒穢。如財利鉤。為諸罪本。欲如夢寐。¶
 是虛妄法。是死。是空。是無常。是過失。云何¶
 愚夫於此樂著。乃至如鹿縛圍。如魚縛網。如¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:35.212624
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_021-0129b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 21
 ¶
 ¶
-
- 大乘集菩薩學論卷第二十一¶
+大乘集菩薩學論卷第二十一¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿宣梵大師賜紫¶
@@ -211,15 +210,11 @@
 　十方三世諸如來
 　所說回向清淨教¶
 　我今積集諸善根
-　悉同最上普賢行
+　悉同最上普賢行」
 #+END_VERSE
-」¶
-
-17恭敬作禮品
-:PROPERTIES:
-:head: 恭敬作禮品第十七
-:END:
 ¶
+
+* 恭敬作禮品第十七¶
 
 論曰。此明次第禮敬諸佛增長福行。當云何¶
 知。如觀察世間經偈云。¶
@@ -425,7 +420,7 @@
 　清淨心如悅¶
 　鼻高脩且直
 　嚴相皆具足¶
-　其舌常嫩滑
+　其舌常嫰滑
 　紅潤若珊瑚¶
 　音響如天人
 　聞一俱胝量¶
@@ -440,8 +435,8 @@
 　隨所行世間
 　安慰而守護¶
 　由作是施故
-　獲如上福報
+　獲如上福報」
 #+END_VERSE
-」¶
+¶
 大乘集菩薩學論卷第二十一¶
 

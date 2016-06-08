@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:34.923842
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_009-0101b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 大乘集菩薩學論卷第九¶
+大乘集菩薩學論卷第九¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿宣梵大師賜紫¶
@@ -181,11 +180,7 @@
 為利眾生。當如是說覺了斯義。如理開示使¶
 無忘失。¶
 
-7護受用福品
-:PROPERTIES:
-:head: 護受用福品第七
-:END:
-¶
+* 護受用福品第七¶
 
 論曰。如是護身應知已釋。護受用者次當今¶
 說。復次起善修作。是中以智觀察。此諸學處¶

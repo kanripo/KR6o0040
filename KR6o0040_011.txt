@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:34.966894
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_011-0107a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 大乘集菩薩學論卷第十一¶
+大乘集菩薩學論卷第十一¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿宣梵大師賜紫¶
@@ -116,9 +115,9 @@
 　謂身業三種
 　及語四過愆¶
 　與意業三毒
-　一切皆懺悔
+　一切皆懺悔」
 #+END_VERSE
-」¶
+¶
 
 論曰。菩薩所得罪犯。約勝說有輕重。故優¶
 波離所問經云。於根本罪等比而說。何者復
@@ -265,9 +264,9 @@
 　過去及未來
 　現住人中尊¶
 　無邊功德海
-　一切歸命禮
+　一切歸命禮」
 #+END_VERSE
-」¶
+¶
 
 舍利子。是菩薩於三十五如來前。如是作已。¶
 是諸如來隨知作意。得罪清淨。由罪清淨故。¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:34.896997
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_008-0097c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 大乘集菩薩學論卷第八¶
+大乘集菩薩學論卷第八¶
 ¶
 西天譯經三藏銀青光祿大夫¶
 試光祿卿普明慈覺傳梵大師¶
@@ -31,11 +30,7 @@
 餘散亂心。三摩地蘊是對治行。說此是名三¶
 摩地分。乃至是名惡不善法。¶
 
-6護身品
-:PROPERTIES:
-:head: 護身品第六
-:END:
-¶
+* 護身品第六¶
 
 論曰。此言遠離虛無果利者。說何所成就耶。¶
 此常成就正念。則得遠離虛無果利。所謂不¶

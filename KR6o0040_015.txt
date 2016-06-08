@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:35.067889
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 大乘集菩薩學論
 #+PROPERTY: CBETA_ID T32n1636
 #+PROPERTY: ID KR6o0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1636
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0040_T_015-0118a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 大乘集菩薩學論卷第十五¶
+大乘集菩薩學論卷第十五¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿宣梵大師賜紫¶
@@ -245,9 +244,9 @@
 　處琉璃座
 　安隱快樂
 　圍繞恭敬¶
-　聞說妙法
+　聞說妙法」
 #+END_VERSE
-」¶
+¶
 
 論曰。此略明慈行對治於瞋。以緣生觀對治¶
 於癡。今當說是中緣生義。有稻稈經說。云¶
